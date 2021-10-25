@@ -1,0 +1,16 @@
+.yes{
+    display: none;
+}
+
+.cancel{
+    display: none;
+}
+
+
+
+.modal{
+    display: none;
+    width: 100%;
+    height: 100%; 
+    background-color:gray;
+}
